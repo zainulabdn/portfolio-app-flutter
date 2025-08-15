@@ -3,7 +3,7 @@
 ## About
 Portfolio app is an innovative Flutter app featuring interactive folding card animations for dynamically displaying structured information.
 
-![Portfolio Screenshot](image/ss.png)
+![Portfolio Screenshot](images/ss.png)
 
 ## Features
 - 🔗 Interactive social media profile links
