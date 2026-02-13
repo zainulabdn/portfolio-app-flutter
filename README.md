@@ -39,19 +39,6 @@ It demonstrates advanced **Flutter UI animation techniques** and smooth state tr
 * **UI Concept:** Folding Card Animation
 * **Platform:** Android & iOS
 
----
-
-## 📷 App Preview
-
-![Image](https://sudorealm.com/postImages/ct9fmwngmdUYnUWElBBf4IrOucYMgekHXTESXSiu.png)
-
-![Image](https://flutterawesome.com/content/images/2021/11/Snipaste_2021-11-07_10-17-21.jpg)
-
-![Image](https://i.sstatic.net/oTOxHoDA.jpg)
-
-![Image](https://user-images.githubusercontent.com/65107679/208923791-41bd1032-cad1-4d4a-af72-df913869569d.gif)
-
-![Image](https://miro.medium.com/1%2AxQ3ygAtYcnHLJrEfTraL1w.gif)
 
 > Interactive folding card layout with smooth animations and structured portfolio sections.
 
